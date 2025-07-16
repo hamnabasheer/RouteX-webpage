@@ -118,7 +118,7 @@ h2 {
   width: 180px;
   position: relative;
   left: 0px;
-  bottom: -40px;
+  bottom: -50px;
   margin-bottom: 20%;
   border-radius: 15px;
 }
@@ -127,7 +127,7 @@ h2 {
   height: 210px;
   width: 210px;
   left: -50px;
-  bottom: 10px;
+  bottom: 0px;
   position: relative;
   border-radius: 15px;
   z-index: 1;
@@ -136,7 +136,7 @@ h2 {
 .experience-box {
   position: absolute;
   left: 20px;
-  bottom: 10px;
+  bottom: 0px;
   background-color: #8DD83D;
   padding: 20px 5px;
   border-radius: 20px;
